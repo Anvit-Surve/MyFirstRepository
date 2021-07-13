@@ -13,3 +13,7 @@
 2. [x] Create a New repo
    - Add Unity gitignore and readme files
 3. [x] Edit your Readme file
+4. [x] Intro to Source Tree
+   - Clone the repo in source tree
+   - Make changes to the readme file
+   - Commit the changes
