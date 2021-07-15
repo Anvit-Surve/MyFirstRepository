@@ -17,3 +17,6 @@
    - Clone the repo in source tree
    - Make changes to the readme file
    - Commit the changes
+
+## working on git bash through 
+visual studio code
